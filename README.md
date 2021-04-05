@@ -1,2 +1,2 @@
 # Renamed
-This account has been renamed to `neurodiffgym`
+This account has been renamed to NeuroDiffGym
